@@ -1,6 +1,6 @@
 ///<reference types='cypress'/>
 
-describe("Iterate over elements", () => {
+describe("Alias and Invoke", () => {
 
     it("Log all the Hair Care Info", () => {
       cy.visit("https://automationteststore.com/");
